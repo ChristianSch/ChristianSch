@@ -3,7 +3,7 @@
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-I have a background in Computer Science, AI and Data Science. I love hacking on stuff, building products. I'm into SaaS, APIs, machine learning, building developer tools and infosec. My role has been CTO for the past 6 years across different companies now, although I still love to code in my past time as well as in my job.
+I have a background in Computer Science, AI and Data Science. I love hacking on stuff, building products. I'm into SaaS, APIs, machine learning, building developer tools and infosec. My role has been CTO for the past 7 years across different companies now, although I still love to code in my past time as well as in my job.
 
 ## Currently
 <a href="https://do24.eu">Digital Office</a>
